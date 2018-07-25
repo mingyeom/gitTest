@@ -1,3 +1,3 @@
-public  class Main{
-	private String name;
+public class Main{
+	private String name;	//name
 }
